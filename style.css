@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main__txt{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(63, 51, 63);
+    margin-bottom: 10px;
+}
+
+.card{
+    padding: 20px;
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+}
+
+#btn{
+    padding: 8px;
+    border-radius: 10px;
+    border: none;
+    background-color: #979696;
+    color: #fff;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+#img{
+   border-radius: 20px; 
+}
